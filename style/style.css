@@ -9,9 +9,9 @@ head {
 
 body {
   min-width: 290px;
-  color: hsl(230, 4%, 31%);
-  background-color: hwb(0 100% 0%);
-  font-family: "Open Sans', Arial, sans-serif";
+  color: hwb(230deg 30% 68%);
+  background-color: hwb(0deg 100% 0%);
+  font-family: "Open Sans", Arial, sans-serif;
   line-height: 1.5;
   display: block;
   margin: 9px;
@@ -27,9 +27,9 @@ body {
 html,
 body {
   min-width: 290px;
-  color: hsl(230, 4%, 31%);
-  background-color: hsl(0, 0%, 100%);
-  font-family: "Open Sans', Arial, sans-serif";
+  color: hwb(230deg 30% 68%);
+  background-color: hwb(0deg 100% 0%);
+  font-family: "Open Sans", Arial, sans-serif;
   line-height: 1.5;
 }
 
@@ -41,7 +41,7 @@ body {
   width: 300px;
   height: 100%;
   border-right: solid;
-  border-color: hsla(180, 100%, 4%, 40%);
+  border-color: hwb(180deg 0% 92% / 0.4);
   border-top: 1px;
 }
 
@@ -61,7 +61,7 @@ header {
 
 #main-doc header {
   text-align: left;
-  margin: 0px;
+  margin: 0;
 }
 
 article {
