@@ -41,7 +41,7 @@ body {
   width: 300px;
   height: 100%;
   border-right: solid;
-  border-color: hwb(180deg 0% 92% / 0.4);
+  border-color: hwb(180deg 0% 92% / 40%);
   border-top: 1px;
 }
 
@@ -81,7 +81,7 @@ ul {
   margin-block-start: 1em;
   margin-block-end: 1em;
   padding-inline-start: 40px;
-  unicode-bidi: isolate;  
+  unicode-bidi: isolate;
 }
 
 #navbar ul {
@@ -91,8 +91,7 @@ ul {
   overflow-x: hidden;
 }
 
-a
- {
+a {
   display: block;
   padding: 12px;
   text-decoration: none;
@@ -116,7 +115,7 @@ code {
 }
 
 ::marker,
-::before::marker, 
+::before::marker,
 ::after::marker {
   unicode-bidi: isolate;
   font-variant-numeric: tabular-nums;
