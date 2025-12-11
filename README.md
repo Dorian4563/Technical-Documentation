@@ -11,7 +11,6 @@ this project is a technical document explains products, systems, or processes i 
 
 open the form with any browser of choice
 - read the content 
-
 - search for any content or go back to the previews content without issue by using the navbar by the side 
 
 ## Built using
