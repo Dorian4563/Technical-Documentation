@@ -23,4 +23,5 @@ to work with or modify this project you should be able to understand the basic o
 
 
 ## my link you can check and verify
-- To see and clone this project run git@github.com:Dorian4563/Technical-Documentation.git
+- To see and clone this project run: git@github.com:Dorian4563/Technical-Documentation.git
+ tags and input as show in my work
