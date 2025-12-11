@@ -21,7 +21,6 @@ CSS
 * prerequisites
 to work with or modify this project you should be able to understand the basic of HTML and style.CSS such as tags and input as show in my work
 
-
 ## my link you can check and verify
 - To see and clone this project run: git@github.com:Dorian4563/Technical-Documentation.git
  tags and input as show in my work
